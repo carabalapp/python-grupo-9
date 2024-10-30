@@ -1,0 +1,3 @@
+Linea 1: Este es un ejemplo de archivo.
+Linea 2: Arpendiendo a manejar archivos en python.
+Linea 3: Este archivo contiene varias linea.
